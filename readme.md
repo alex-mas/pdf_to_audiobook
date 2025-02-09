@@ -19,12 +19,12 @@ pip install requirements.txt
 
 
 ```
-./pdf_to_audiobook.sh path/to/pdf.pdf out_name
+python ./src/pdf_to_audiobook.py path/to/pdf.pdf out_name
 ```
 
 For more information:
 ```
-./pdf_to_audiobook.sh -h
+python ./src/pdf_to_audiobook.py -h
 ```
 
 
